@@ -26,11 +26,11 @@ const META_GRAPH_VERSION =
   process.env.META_GRAPH_VERSION || "v24.0";
 
 const META_EVENT_NAME =
-  process.env.META_EVENT_NAME || "TelegramJoin";
+  process.env.META_EVENT_NAME || "Subscribe";
 
 const APP_URL =
   process.env.APP_URL ||
-  "https://work-from-job.vercel.app";
+  "https://book-publication-virid.vercel.app";
 
 
 // =========================================================
